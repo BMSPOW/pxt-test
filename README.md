@@ -12,5 +12,5 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-tools=github:BMSPOW/pxt-test
+test=github:BMSPOW/pxt-test
 ```
