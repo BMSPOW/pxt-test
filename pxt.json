@@ -1,0 +1,15 @@
+﻿{
+    "name": "test",
+    "version": "0.0.1",
+    "description": "這是專為測試用",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/test-strings.json"
+    ],
+    "public": true
+}
