@@ -1,4 +1,4 @@
-﻿//% weight=0 color=#3CB371 icon="\uf0ad" block="Test"
+//% weight=0 color=#3CB371 icon="\uf0ad" block="Test"
 namespace test {
     /**
     * 計算長方形面積，並回傳
